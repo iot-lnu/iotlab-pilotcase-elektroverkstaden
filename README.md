@@ -24,6 +24,10 @@ The hardware requirements for the project as noted are:
 5. Consideration for communication methods such as 5G, LTE, or LoRaWAN.
 6. Potential for remote access to pump stations.
 
+# Timeline
+
+**27-11-2023** - [meeting with Jemac](/meeting-with-jemac.md)
+
 # Approach 
 
 # Results
