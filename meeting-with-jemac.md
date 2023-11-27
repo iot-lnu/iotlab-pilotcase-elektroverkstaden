@@ -1,4 +1,6 @@
-# Möte med Jemac
+# meeting with Jemac
+
+
 
 *Önsekmål från jemac:* är att de sköter OS, drivrutin för upkopplingen och OTA.
 
