@@ -5,7 +5,6 @@ On monday 27th of november a meeting was held with Jemac. During the meeting we 
 
 ## Thoughts from Jemac
 Jemac would like to provide/take care of OS, driver for the connection and OTAs if that is needed in the future 
-är att de sköter OS, drivrutin för upkopplingen och OTA.
 
 ## Hardware
 according to requirements defined in readme at the time of the meeting:
