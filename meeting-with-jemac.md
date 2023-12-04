@@ -24,3 +24,5 @@ In order to match the requirements it might be possible to ure the AO as a DO
 ## Future work
 
 Jemac could help us set up a lab enviroment on their hardware. They have an idea to make it a bit like arduino. Jemac suggested that LNU could write a requirement document. 
+
+![](img/20231127_134927.jpg)
